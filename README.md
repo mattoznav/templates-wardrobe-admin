@@ -54,3 +54,7 @@ npm run build
 
 Serve `dist/wardrobe-admin/browser` from the same domain as the API (for example under `/admin/` with the API under `/api/`), or put both behind one reverse proxy.
 The public website is built ahead of time: after editing products, trigger a rebuild of the website (for example with a deploy hook) so the shop pages follow.
+
+## License
+
+The code is released under the [MIT License](LICENSE).
